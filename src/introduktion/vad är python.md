@@ -1,37 +1,38 @@
-# What is Python
+# Vad är python
 
-Python is a popular programming language. It was created in 1991 by Guido van Rossum.
+Python är ett populärt programeringsspråk. Det skapades av Guido van Rossum 1991.
+Python är ett lätt och kraftfullt programeringsspråk. Språket har effektiva data struktuerer på högnivå och ett enkelt och effektiv tillämpning av objektorientering.
+Python har elegant syntax och dynamisk typning. Tillsammans med sin tolk gör det sig till ett idealspråk för scripting och snabb applikationsutvekling innom många områden och på de flästa plattformar.  
 
-Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
-It is used for:
+Det används för:
 
-- web development (server-side),
-- software development,
-- mathematics,
-- system scripting.
+- Webbutveckling (server sidan),
+- Mjukvaruetveckling,
+- Matemeatik, och databehandling
+- Scriptning.
 
-## What can Python do?
+## Vad kan python göra?
 
-- Python can be used on a server to create web applications.
-- Python can be used alongside software to create workflows.
-- Python can connect to database systems. It can also read and modify files.
-- Python can be used to handle big data and perform complex mathematics.
-- Python can be used for rapid prototyping, or for production-ready software development.
+- Python kan köras på en server för att skapa webbaplikationer.
+- Python kan användas tillsammasn med anda applikationer för att skapa arbetsflöden
+- Python kan ansluta sig till databaser och det kan läsa, skriva och ändra filer.
+- Python kan användas för att bearbeta stora dataset och kan utföra avancerade matematiska beräkningar. 
+- Python kan användas för att snabbt skapa en prototyp, eller produktionsredo mjukvaruutveckling.
 
-## Why Python?
+## Varför Python?
 
-- Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
-- Python has a simple syntax similar to the English language.
-- Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
-- Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
-- Python can be treated in a procedural way, an object-orientated way or a functional way.
+- Python fungerar på olika platformar (Windows, Mac, Linux, Raspberry Pi, etc).
+- Python har en enkel syntax som påmminner om vanlig engelska.
+- Python har en syntax som möjliggör för utveklare att skapa program med färre rader kod än i andra språk
+- Python körs med en tolk, vilket gör att koden kan köras så fort man skrivit den. Detta gör att ex prototyper kan skapas väligt fort.
+- Python kan skrivas i en procedural, objektorienterad eller funktionell programmeringsmetod
 
-## Good to know
+## Bra att veta
 
-- The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
-- In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
+- Den senaste major versionen av Python är Python 3 och använd i denna introduktion. Pyhon 2 är dock ännu väldingt poppulär men får ingen ny funktionallitet. Uppdateringar till Python 2 är vara säkerhetsuppdateringar.
+- Denna introduktion använder Jupyther notebook och bygger på material skrivet i markdwon. Det är dock möjligt att skriva Python i ett IDE (Integrated Development Environment), such as Pycharm eller Eclipse  etc. som passar väldigt bra vid större projekt.
 
-## References
+## Referenser
 
 - [w3schools.com](https://www.w3schools.com/python/python_intro.asp)
